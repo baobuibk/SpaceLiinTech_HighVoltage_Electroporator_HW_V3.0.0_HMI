@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\LAB209B3\SpaceLiinTech_Eletroporator\DuAn_HighVoltage_HMI_F7\01_DESIGN\HMI_F7_V2.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=hmi_f7_v2-roundholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=hmi_f7_v2-slotholes.txt|DrillLayers=gtl,g1,g2,gbl
