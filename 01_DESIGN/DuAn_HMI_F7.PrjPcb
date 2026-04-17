@@ -50,6 +50,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=LCD_TFT_Module.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=5
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CWEZSOTA
+
+[Document2]
 DocumentPath=LCD_TFT.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -66,7 +83,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OOTQNNWB
 
-[Document2]
+[Document3]
 DocumentPath=SDRAM.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -83,7 +100,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FKAVCBBL
 
-[Document3]
+[Document4]
 DocumentPath=RS232.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KGNBCCOW
 
-[Document4]
+[Document5]
 DocumentPath=MCU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OWRKZYFV
 
-[Document5]
+[Document6]
 DocumentPath=POWERDoc.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -133,23 +150,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KRTRHYQX
-
-[Document6]
-DocumentPath=HMI_F7_V2.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=JCBWRGWG
 
 [Document7]
 DocumentPath=DuAn_HMI_F7.BomDoc
@@ -812,7 +812,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=NTHGDAYU
 
 [Document46]
 DocumentPath=..\..\..\..\ALtium\LIB2026\LIBRARY\Module.PcbLib
@@ -950,107 +950,128 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document54]
+DocumentPath=HMI_F7_V3.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JCBWRGWG
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for DuAn_HMI_F7\Design Rule Check - HMI_F7_V2.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for DuAn_HMI_F7\Design Rule Check - PCB2.html
+DocumentPath=Project Outputs for DuAn_HMI_F7\Design Rule Check - HMI_F7_V3.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for DuAn_HMI_F7\Design Rule Check - PCB3.html
+DocumentPath=Project Outputs for DuAn_HMI_F7\Design Rule Check - PCB2.html
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for DuAn_HMI_F7\HMI_F7_V2-RoundHoles.TXT
+DocumentPath=Project Outputs for DuAn_HMI_F7\Design Rule Check - PCB3.html
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for DuAn_HMI_F7\HMI_F7_V2-SlotHoles.TXT
+DocumentPath=Project Outputs for DuAn_HMI_F7\HMI_F7_V2-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for DuAn_HMI_F7\HMI_F7_V2.DRR
+DocumentPath=Project Outputs for DuAn_HMI_F7\HMI_F7_V2-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for DuAn_HMI_F7\HMI_F7_V2.EXTREP
+DocumentPath=Project Outputs for DuAn_HMI_F7\HMI_F7_V2.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for DuAn_HMI_F7\HMI_F7_V2.LDP
+DocumentPath=Project Outputs for DuAn_HMI_F7\HMI_F7_V2.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for DuAn_HMI_F7\HMI_F7_V2.REP
+DocumentPath=Project Outputs for DuAn_HMI_F7\HMI_F7_V2.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for DuAn_HMI_F7\HMI_F7_V2.xls
+DocumentPath=Project Outputs for DuAn_HMI_F7\HMI_F7_V2.REP
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for DuAn_HMI_F7\HMI_F7_V2_Copper_Signal_1.gbr
+DocumentPath=Project Outputs for DuAn_HMI_F7\HMI_F7_V2.xls
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for DuAn_HMI_F7\HMI_F7_V2_Copper_Signal_2.gbr
+DocumentPath=Project Outputs for DuAn_HMI_F7\HMI_F7_V2_Copper_Signal_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for DuAn_HMI_F7\HMI_F7_V2_Copper_Signal_Bot.gbr
+DocumentPath=Project Outputs for DuAn_HMI_F7\HMI_F7_V2_Copper_Signal_2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for DuAn_HMI_F7\HMI_F7_V2_Copper_Signal_Top.gbr
+DocumentPath=Project Outputs for DuAn_HMI_F7\HMI_F7_V2_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for DuAn_HMI_F7\HMI_F7_V2_Drawing_1.gbr
+DocumentPath=Project Outputs for DuAn_HMI_F7\HMI_F7_V2_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for DuAn_HMI_F7\HMI_F7_V2_Drillmap_1.gbr
+DocumentPath=Project Outputs for DuAn_HMI_F7\HMI_F7_V2_Drawing_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for DuAn_HMI_F7\HMI_F7_V2_Keep-out.gbr
+DocumentPath=Project Outputs for DuAn_HMI_F7\HMI_F7_V2_Drillmap_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for DuAn_HMI_F7\HMI_F7_V2_Legend_Bot.gbr
+DocumentPath=Project Outputs for DuAn_HMI_F7\HMI_F7_V2_Keep-out.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for DuAn_HMI_F7\HMI_F7_V2_Legend_Top.gbr
+DocumentPath=Project Outputs for DuAn_HMI_F7\HMI_F7_V2_Legend_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for DuAn_HMI_F7\HMI_F7_V2_Pads_Bot.gbr
+DocumentPath=Project Outputs for DuAn_HMI_F7\HMI_F7_V2_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for DuAn_HMI_F7\HMI_F7_V2_Pads_Top.gbr
+DocumentPath=Project Outputs for DuAn_HMI_F7\HMI_F7_V2_Pads_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for DuAn_HMI_F7\HMI_F7_V2_Paste_Bot.gbr
+DocumentPath=Project Outputs for DuAn_HMI_F7\HMI_F7_V2_Pads_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for DuAn_HMI_F7\HMI_F7_V2_Paste_Top.gbr
+DocumentPath=Project Outputs for DuAn_HMI_F7\HMI_F7_V2_Paste_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for DuAn_HMI_F7\HMI_F7_V2_Profile.gbr
+DocumentPath=Project Outputs for DuAn_HMI_F7\HMI_F7_V2_Paste_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for DuAn_HMI_F7\HMI_F7_V2_Soldermask_Bot.gbr
+DocumentPath=Project Outputs for DuAn_HMI_F7\HMI_F7_V2_Profile.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument26]
+DocumentPath=Project Outputs for DuAn_HMI_F7\HMI_F7_V2_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument27]
 DocumentPath=Project Outputs for DuAn_HMI_F7\HMI_F7_V2_Soldermask_Top.gbr
 DItemRevisionGUID=
 

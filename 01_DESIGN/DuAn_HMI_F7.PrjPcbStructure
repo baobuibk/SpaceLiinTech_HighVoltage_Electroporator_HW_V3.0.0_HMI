@@ -1,5 +1,6 @@
-Record=TopLevelDocument|FileName=LCD_TFT.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=LCD_TFT.SchDoc|FileName=MCU.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=LCD_TFT.SchDoc|FileName=POWERDoc.SchDoc|SheetNumber=5
-Record=NoMainPathDocument|SourceDocument=LCD_TFT.SchDoc|FileName=RS232.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=LCD_TFT.SchDoc|FileName=SDRAM.SchDoc|SheetNumber=2
+Record=TopLevelDocument|FileName=LCD_TFT.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=LCD_TFT.SchDoc|FileName=LCD_TFT_Module.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=LCD_TFT.SchDoc|FileName=MCU.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=LCD_TFT.SchDoc|FileName=POWERDoc.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=LCD_TFT.SchDoc|FileName=RS232.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=LCD_TFT.SchDoc|FileName=SDRAM.SchDoc|SheetNumber=3
