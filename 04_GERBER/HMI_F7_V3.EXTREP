@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: HMI_F7_V3.GBR   4/18/2026  2:58:35 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.gbr                Top Overlay                             
+.gbr                Top Paste                               
+.gbr                Top Solder                              
+.gbr                Top Layer                               
+.gbr                PWR                                     
+.gbr                GND                                     
+.gbr                Bottom Layer                            
+.gbr                Bottom Solder                           
+.gbr                Bottom Paste                            
+.gbr                Bottom Overlay                          
+.gbr                Keep-Out Layer                          
+.gbr                Top Pad Master                          
+.gbr                Bottom Pad Master                       
+.gbr                Drill Drawing                           
+.gbr                Drill Guide                             
+.gbr                Profile                                 
+------------------------------------------------------------------------------------------

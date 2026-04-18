@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: HMI_F7_V3.PcbDoc   4/18/2026  2:59:39 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : HMI_F7_V3-RoundHoles.TXT
+ASCII SlotHoles File : HMI_F7_V3-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             1027      PTH        4636.63mm (182.54inch)
+T2      0.5mm (20mil)                                             Round             64        PTH        781.17mm (30.75inch)
+T3      0.6mm (24mil)                                             Slot              4         PTH        56.63mm (2.23inch)
+T4      1mm (39mil)                                               Round             2         PTH        7.98mm (0.31inch)
+T5      1.35mm (53mil)                                            Round             2         PTH        4.90mm (0.19inch)
+T6      2.03mm (80mil)                                            Round             2         PTH        21.59mm (0.85inch)
+T7      3.18mm (125mil)                                           Round             8         PTH        695.29mm (27.37inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              1109
+
+Total Processing Time (hh:mm:ss) : 00:00:00
